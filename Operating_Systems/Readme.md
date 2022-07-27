@@ -1,4 +1,4 @@
-# Operating Systems Assigments
+# Operating Systems Assigments(CENG 2034 Operating Systems)
 
 - Adem Varol
 - Mustafa Can İnce
