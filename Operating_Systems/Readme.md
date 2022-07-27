@@ -1,5 +1,7 @@
 # Operating Systems Assigments
 
+- Adem Varol
+- Mustafa Can İnce
 ## 0)
  Our C codes were built, compiled and run with 'Ubuntu 21.10 GNM 40.4.0_64-bit' and macOS Monterey 12.1.
 
